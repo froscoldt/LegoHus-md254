@@ -11,6 +11,7 @@ import java.sql.SQLException;
  */
 public class Connector {
 
+    // eventelt indtast din egen DB hvis det ikke dur og brug dbinit til at sætte den op. Bagefter kør dbdummydata
     private static final String URL = "jdbc:mysql://104.248.42.142:3306/mydb";
     private static final String USERNAME = "editor";
     private static final String PASSWORD = "monsterdaase%642";

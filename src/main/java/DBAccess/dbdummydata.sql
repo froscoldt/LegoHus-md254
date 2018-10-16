@@ -10,7 +10,7 @@
 
 
 
-Insert into Users(`email`, `password`, `role`) Values('cus@somewhere.com','1234','customer');
+Insert into Users(`email`, `password`, `role`) Values('Cus@somewhere.com','1234','customer');
 Insert into Users(`email`, `password`, `role`) Values('Emp@company.com','1234','employee');
 
 
